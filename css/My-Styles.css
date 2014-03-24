@@ -12,6 +12,18 @@ p {
 	text-align: justify;
 	}
 
+/*
+ * Fixed Nav Bar
+===========================*/
+.nav-fixed-top {
+	position: fixed;
+	width: 100%;
+	z-index: 100;
+}
+
+.lead {
+	padding-top: 40px;
+}
 
 /* Portraits
 ===========================*/
